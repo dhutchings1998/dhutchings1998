@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhutchings1998
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science & web development
 - 🌱 I’m currently learning Solidity
 - 📫 Reach me at dhutchings1998@gmail.com
 
